@@ -12,9 +12,4 @@ Welcome to DocWeb-Demo's documentation!
 
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   _ssh-doc/index
