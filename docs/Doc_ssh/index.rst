@@ -3,13 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Nhat Thai .TL's documentation!
-==========================================
+SSH-documentation
+=======================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Basic:
+   :maxdepth: 1
+   :caption: Contents:
 
-
-   Doc_ssh/index
-   Doc_git_intruction/index
+   intro
